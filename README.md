@@ -1,10 +1,3 @@
-Below is a **clean, professional, honest README** that reflects **what Denji actually is today**, not hype, not future promises.
-You can paste this directly into `README.md`.
-
-I’ve written it as if someone technical (or future-you) is reading it.
-
----
-
 # 🧠 Denji — Focus, Time & Study Companion
 
 Denji is a **desktop-first productivity application** built with React and TypeScript, centered around **deep focus, intentional time tracking, and clean state management**.
