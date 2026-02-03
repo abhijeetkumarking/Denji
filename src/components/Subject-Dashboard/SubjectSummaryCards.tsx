@@ -1,8 +1,8 @@
 import { useMemo } from "react";
-import { usePomodoro } from "../context/PomodoroContext";
-import { useSubjects } from "../features/subjects/SubjectContext";
-import { getSubjectTotals } from "../utils/stats";
-import { computeSubjectStreak } from "../utils/streaks";
+import { usePomodoro } from "../../context/PomodoroContext";
+import { useSubjects } from "../../features/subjects/SubjectContext";
+import { getSubjectTotals } from "../../utils/stats";
+import { computeSubjectStreak } from "../../utils/streaks";
 
 function formatMinutes(mins: number) {
   if (mins === 0) return "—";
